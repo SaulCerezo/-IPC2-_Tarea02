@@ -151,10 +151,67 @@ Si su contraseña es correcta avance con el boton **ACEPTAR**, que se encuentra 
 
 Si el ingreso fue erroneo oprimir el boton **CANCELAR** y repetir el proceso **3.3**
 
+Si su usuario fue encontrado con exito podra ver el siguiente mensaje en su pantalla:
 
+[![imagen.png](https://i.postimg.cc/QM1Tq7fy/imagen.png)](https://postimg.cc/hJ4vDXWL)
 
+y acontinuacion lo redirigira al menú para usuarios:
 
+[![imagen.png](https://i.postimg.cc/3rSdm9Kw/imagen.png)](https://postimg.cc/G9DL1FT0)
 
+de caso contrario obtendra el siguiente mensaje, si este es el caso debera repetir todo el procesos antriormente explicado.
+
+[![imagen.png](https://i.postimg.cc/MTGzG2fm/imagen.png)](https://postimg.cc/SXHBZPrn)
+
+## **4. Ingreso de datos y login por simulacion**
+
+**4.1 Opcion Registro** 
+Acontinuacion veremos como hacer ingreso de un nuevo usuario mediante la simulacion. Primero nos deberemos posicionar al lado de la opcion registro, nos desplazaremos con las teclas **2** , **8** y aceptaremos con la tecla **5**. Como se ve acontinuacion:
+
+[![imagen.png](https://i.postimg.cc/2j22vpbB/imagen.png)](https://postimg.cc/5jQBdRmx)
+
+Una vez dentro del menu de **Registro** para poder ingresar una letra el usuario debera oprimir **Asterisco** o **Numeral()**
+para poder dezplasarce entre letra mediatne el teclado numerico, para poder aceptar su opcion debera oprimir la tecla **0**
+
+[![imagen.png](https://i.postimg.cc/3Ns1tvsf/imagen.png)](https://postimg.cc/ctcfHr4f)
+
+para poder avanzsar oprimir el boton **ACEPTAR** que se encuentra abajo del teclado numero en la simulacion.
+
+[![imagen.png](https://i.postimg.cc/yxcp4jyC/imagen.png)](https://postimg.cc/D4fP1qNx)
+
+si no esta conforme con el nombre ingresado, oprimir el boton **CANCELAR** y repetir el proceso **4.1**
+
+**4.2 Ingreso de numero celular**
+Para ingresar su numero debera de oprimir los numeros del teclado numerico, si su numero es correcto debera de oprimir el boton **ACEPTAR** para validar el ingreso de sus datos.
+
+[![imagen.png](https://i.postimg.cc/TPvwT3x8/imagen.png)](https://postimg.cc/jDvKXKCv)
+
+si la longitud no es la requerida el sistema lanzara una alerta en pantalla advirtiendole de su fallo y debera repetir el proceso **4.2**
+si no esta conforme con el nombre ingresado, oprimir el boton **CANCELAR** y repetir el proceso **4.2**
+
+**4.3 Ingreso de Contraseña**
+La contraseña debera llevar un numero, un caracter y una letra para que esta sea valida y su longitud debera ser de 8 caracteres.
+Una vez se encuentre conforme con su contraseña debera oprimir el boton **ACEPATAR** y aqui terminara el proceso de registro, al aceptar el programa lo regresara al menu principal.
+
+[![imagen.png](https://i.postimg.cc/qRdjcydm/imagen.png)](https://postimg.cc/WDXGTDzr)
+
+## **5. LOGIN**
+Para poder acceder a esta opcion el usuario se debera colocar al lado y oprimir la tecla **5** del teclado numerico de la simualcion.
+
+[![imagen.png](https://i.postimg.cc/SQPYwqn4/imagen.png)](https://postimg.cc/7bgL2F1t)
+
+**5.1 Ingreso de Nombre**
+Una vez dentro del menu **LOGIN** el programa le solicitara que use su nombre de usuario con el cual se a registrado previamente.
+Como se explico anteriormente debera de escribir el nombre mediante el teclado numerico, para acceder al abecedario debera precionar **asterisco** o **numeral** y aceptara la letra con **0** 
+Una vez este seguro de escribir bien su usuario, debera continuar el proceso con el boton aceptar.
+
+[![imagen.png](https://i.postimg.cc/v8XwBHrR/imagen.png)](https://postimg.cc/hhJ5ZnZM)
+
+**5.2 Ingreso de Contaseña**
+Al terminar el proceso 5.1 el programa le pedira ingresar su contraseña, debera colocar la misma con la cual se registro previamente.
+Para poder avanzar deber oprimir el boton **ACEPTAR**.
+
+[![imagen.png](https://i.postimg.cc/nhBdX0ys/imagen.png)](https://postimg.cc/NKG8V7fY)
 
 
 
