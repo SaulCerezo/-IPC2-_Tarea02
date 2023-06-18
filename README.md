@@ -94,12 +94,62 @@ Si su contraseña es correcta debera de oprimir el boton **ACEPTAR** en la simul
 
 [![imagen.png](https://i.postimg.cc/jdhcTpKj/imagen.png)](https://postimg.cc/CzzkH6Ry)
 
+### **Una vez completados los 3 campos que solicita la aplicacion móvil** 
+tendra acceso al apartado LOGINBT, y para eso explicarmos como debe ser el ingreso de los datos del usuario:
 
+## **3. Uso de LOGINBT**
+Al terminar el proceso **2** la simulacion automaticamente lo regresara al menú principal, debera seleccionar la opcion de LOGINBT, posicionarce con el cursor y luego oprimir la tecla **5**
 
+[![imagen.png](https://i.postimg.cc/W1Ld93xF/imagen.png)](https://postimg.cc/ppCVr2WR)
 
+Cuando oprima la tecla 5, su pantalla en la simualcion cambiara como se ve acontinuacion:
 
+[![imagen.png](https://i.postimg.cc/5tkZncTy/imagen.png)](https://postimg.cc/94Z8QkWH)
 
+Cuando el usuario pueda observar este mensaje, debera dirigirse a la **aplicación móvil**, acontinuacion poddra observar la interfaz de la aplicacion el usuario debera seleccionar la opcion **Dispositivos**:
 
+[![imagen.png](https://i.postimg.cc/J7QQL37c/imagen.png)](https://postimg.cc/fkJd799J)
+
+Cuando ingrese a la opcion **Dispositivos** se deplegara una gama de dispositivos bluetooth, ustede debera seleccionar el dispositvo en el cual esta trabajando la simualacion. Como vemos en la siguiente imagen:
+
+[![imagen.png](https://i.postimg.cc/XJLBT8Kr/imagen.png)](https://postimg.cc/sQB2W5Nz)
+
+Una vez enlazada la aplicacion movil con su dispositivo en el menú de inicio aparecera la sigueinte opcion **Conectarce a (nombre del dispositivo en el cual esta trabajando)** debera entrar en esa opcion:
+
+[![imagen.png](https://i.postimg.cc/SsPk2YkZ/imagen.png)](https://postimg.cc/zbT94BLW)
+
+**3.1 INGRESO DE DATOS MEDIANTE APLICACION MOVIL**
+El usuario debera completar los campos en en la aplicacion móvil y al oprimir el boton enviar debera ver su pantalla de la simulacion asi:
+
+[![imagen.png](https://i.postimg.cc/nckvQqXV/imagen.png)](https://postimg.cc/56XHhY5D)
+
+Si ingreso correctamente su nombre de usuario debera de oprimir el boton **ACEPTAR**.
+
+[![imagen.png](https://i.postimg.cc/qRwkGByK/imagen.png)](https://postimg.cc/47Kkfg84)
+
+Si el ingreso fue erroneo oprimir el boton **CANCELAR** y repetir el proceso **3.1**.
+
+**3.2 Ingreso de numero celular:** 
+Al terminar el porceso anterior debera de ingresar su numero de celular con el cual se ha registrado anteriormente, el ingreso sera mediante la aplicacion móvil, al terminar de ingresarlo oprimir la opcion **ENVIAR**. Si termino este proceso con exito debera ver su pantalla de simulacion asi:
+
+[![imagen.png](https://i.postimg.cc/xjPRLw7S/imagen.png)](https://postimg.cc/s1v7rNsn)
+
+Si su numero de celular es correcto avance con el boton **ACEPTAR**, que se encuentra en la simulacion.
+
+[![imagen.png](https://i.postimg.cc/nrvcQKTH/imagen.png)](https://postimg.cc/jnSrp7G9)
+
+Si el ingreso fue erroneo oprimir el boton **CANCELAR** y repetir el proceso **3.2**
+
+**3.3 Ingreso de contraseña**
+Al terminar los dos procesos anteriores debera ingresar su contraseña que coloco en el proceso de **REGISTRO**. El ingreso sera mediante la aplicación móvil, al terminar de ingresarlo oprimir la opcion **ENVIAR**. Si termino este proces con exito debera ver su pantalla de simulacion asi:
+
+[![imagen.png](https://i.postimg.cc/Y2yxX6pX/imagen.png)](https://postimg.cc/hhTxv7Qx)
+
+Si su contraseña es correcta avance con el boton **ACEPTAR**, que se encuentra en la simulacion.
+
+[![imagen.png](https://i.postimg.cc/g2452wV1/imagen.png)](https://postimg.cc/fVt5HRgv)
+
+Si el ingreso fue erroneo oprimir el boton **CANCELAR** y repetir el proceso **3.3**
 
 
 
