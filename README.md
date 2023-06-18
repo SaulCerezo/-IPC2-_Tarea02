@@ -48,7 +48,7 @@ Una vez enlazada la aplicacion movil con su dispositivo en el menú de inicio ap
 
 [![imagen.png](https://i.postimg.cc/SsPk2YkZ/imagen.png)](https://postimg.cc/zbT94BLW)
 
-Cuando seleccione el dispositivo en el cual estará trabajando, vera que la pantalla en la simulación y en su móvil abram cambiado, la aplicación móvil le pedira que ingrese su nombre de usuario:
+**2.1 INGRESO DE NOMBRE: **  Cuando seleccione el dispositivo en el cual estará trabajando, vera que la pantalla en la simulación y en su móvil abram cambiado, la aplicación móvil le pedira que ingrese su nombre de usuario:
 
 [![imagen.png](https://i.postimg.cc/LsMTSxPD/imagen.png)](https://postimg.cc/jDZNQQZn)
 
@@ -56,7 +56,7 @@ mediante el teclado debera ingresar su nombre de usuario y cuando este conforme 
 
 [![imagen.png](https://i.postimg.cc/Sxb8YJKN/imagen.png)](https://postimg.cc/SJVjwQ8w)
 
-**2.1**  Si se realizo bien el proceso mencionado anteriormente debera ver en la pantalla de la simulacion lo siguiente:
+Si se realizo bien el proceso mencionado anteriormente debera ver en la pantalla de la simulacion lo siguiente:
 
 [![imagen.png](https://i.postimg.cc/zGpCmqJz/imagen.png)](https://postimg.cc/hXzzTWz6)
 
@@ -66,16 +66,33 @@ Si esta deacuerdo con su nombre du usuario, debera seleccionar aceptar con el bo
 
 Si selecciona el boto **CANCELAR** debera repetir el proceso **(2.1)** de escribir su nombre de usuario.
 
+**2.2  INGRESO DE NUMERO:** Una vez haya cumplido con el ingreso de su nombre de usuario debera de ingresar el numero de celular, para esto la pantalla de la simulacion y la pantalla en su móvil deberan verce asi:
+Si su numero de celular se encuentra bien ingresado debera oprimir la opcion **ENVIAR**.
 
+[![imagen.png](https://i.postimg.cc/k4kJBRyn/imagen.png)](https://postimg.cc/cgByzHjj)
 
+Si cumplio correctamente con el anterior porceso debera ver la pantalla de la simulacion como la siguiente imagen:
 
+[![imagen.png](https://i.postimg.cc/BvrkFTRw/imagen.png)](https://postimg.cc/bGRmctyQ)
 
+Si su numero de celular es correcto debera de oprimir el boton **ACEPTAR** en la simulacion: 
 
+[![imagen.png](https://i.postimg.cc/xdvysLcZ/imagen.png)](https://postimg.cc/CZKq5BCC)
 
+Si selecciona el boto **CANCELAR** debera repetir el proceso **(2.2)** de escribir su numero de usuario.
 
+**2.3 INGRESO DE CONTRASEÑA:** Una vez haya cumplido con el ingreso de numero de celular debera de ingresar su contraseña, para esto la pantalla de la simulacion y la pnatalla en su móvil deberan verce asi:
+Si esta conforme con su contraseña debera de oprimir la opcion **ENVIAR**:
 
+[![imagen.png](https://i.postimg.cc/VL0ZcGvr/imagen.png)](https://postimg.cc/HVH9wtQd)
 
+Si cumplio correctamente con el anterior porceso debera ver la pantalla de la simulacion como la siguiente imagen:
 
+[![imagen.png](https://i.postimg.cc/rw8ht8gW/imagen.png)](https://postimg.cc/hf58kRkP)
+
+Si su contraseña es correcta debera de oprimir el boton **ACEPTAR** en la simulacion:
+
+[![imagen.png](https://i.postimg.cc/jdhcTpKj/imagen.png)](https://postimg.cc/CzzkH6Ry)
 
 
 
